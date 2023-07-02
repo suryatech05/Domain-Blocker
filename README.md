@@ -1,4 +1,6 @@
 ![image](https://github.com/suryatech05/Domain-Blocker/assets/120020431/05beec62-ea1e-4430-956c-8ade2bc3f144)
+
+
 **Introduction**
 
   Pi-hole is a network-level ad blocker that functions as a Domain Name System (DNS) sinkhole. It is designed to be installed on a Raspberry Pi or other Linux-based server to provide network-wide ad blocking, thereby reducing the amount of internet traffic and increase browsing speed.
